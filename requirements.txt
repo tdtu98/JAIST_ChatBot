@@ -1,0 +1,6 @@
+langchain == 0.1.10
+chromadb == 0.4.24
+OpenAI == 1.13.3
+pypdf == 4.0.2
+tiktoken == 0.6.0
+streamlit == 1.31.1
